@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maria Granados</h1>
-<h3 align="center">I am a Computer Science student, currently entering my 3rd year of my degree. I am expanding my knowledge in both back-end and front-end development. I have created a project for the library industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and helpful.</h3>
+<h3 align="left">I am a Computer Science student, currently entering my 3rd year of my degree. I am expanding my knowledge in both back-end and front-end development. I have created a project for the library industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and helpful.</h3>
 
 - 🔭 I’m currently working on [a Real-Time ChatRoom Application with Users and Rooms](https://github.com/mfgs123/Chat-App)
 
-- 🌱 I’m currently learning **IBM Full Stack Software Developer Course, Node.js, Socket.io**
+- 🌱 I’m currently studying: IBM Full Stack Software Developer Course, Node.js environment and Socket.io library.
 
-- 💬 Ask me about **anything! I'm eager to join new projects!**
+- 💬 Ask me about anything! I'm eager to join new projects!
 
-- 📫 How to reach me **mariafernandagranados12@gmail.com**
+- 📫 Reach out to me at: mariafernandagranados12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
